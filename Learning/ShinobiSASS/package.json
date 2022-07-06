@@ -1,0 +1,21 @@
+{
+  "name": "shinobisass",
+  "version": "1.0.0",
+  "description": "Intro to SASS ",
+  "main": "index.js",
+  "author": "Kojo Agyemfra",
+  "license": "MIT",
+  "scripts": {
+    "compile:sass": "sass --watch styles/scss:styles/css"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "learn-bootstrap",
+    "learn-sass"
+  ],
+  "devDependencies": {
+    "sass": "^1.32.12"
+  }
+}
