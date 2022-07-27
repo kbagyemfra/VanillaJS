@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-web",
+  "version": "1.0.0",
+  "description": "Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss:css"
+  },
+  "author": "Kojo Agyemfra",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.54.0"
+  }
+}
